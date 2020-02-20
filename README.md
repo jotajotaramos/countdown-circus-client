@@ -1,5 +1,13 @@
 # countdown-circus-client
 
+# APP CONFIG
+
+## Environmental variables
+
+- Rename .env.example to .env
+
+# NPM COMMANDS
+
 ## Project setup
 ```
 npm install
